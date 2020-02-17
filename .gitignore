@@ -1,0 +1,6 @@
+desktop.ini
+.vscode
+.ipynb_checkpoints
+__pycache__
+/output/*.csv
+/input/*.csv
